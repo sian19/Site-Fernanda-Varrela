@@ -7,4 +7,4 @@ Neste projeto foi feito um site de uma dentista, onde a mesma oferece serviços 
 
 <p>Abaixo fiz algo interessante usando calc, onde defini uma altura em porcentagem e ao passar o mouse em cima  de um desses três elementos abaixo do slide(usando a propriedade hover) fiz com que a imagem que estivesse com o mouse em cima aumentasse de tamanho de forma relativa, assim frazendo com que os elementos dentro tenham mais destaque na página.</p>
 
-<img src="">
+<img src="https://github.com/sian19/Site-Fernanda-Varrela/blob/master/images/Img-projeto_2.png">
