@@ -5,6 +5,6 @@ Neste projeto foi feito um site de uma dentista, onde a mesma oferece serviços 
 <h3>Imagens do projeto:</h3>
 <img src="https://github.com/sian19/Site-Fernanda-Varrela/blob/master/images/Img-projeto.png">
 
-<p>Abaixo fiz algo interessante usando calc, onde defini uma altura em porcentagem e ao passar o mouse em cima  de um desses três elementos abaixo do slide(usando a propriedade hover) fiz com que a imagem que estivesse com o mouse em cima aumentasse de tamanho de forma relativa, assim frazendo com que os elementos dentro tenham mais destaque na página.</p>
+<p>Abaixo fiz algo interessante usando calc, onde defini uma altura em porcentagem e ao passar o ponteiro do mouse em cima  de um desses três elementos abaixo do slide(usando a propriedade hover) fiz com que a imagem que estivesse com o ponteiro em cima aumentasse de tamanho de forma relativa, assim frazendo com que os elementos dentro tenham mais destaque na página.</p>
 
 <img src="https://github.com/sian19/Site-Fernanda-Varrela/blob/master/images/Img-projeto_2.png">
