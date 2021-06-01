@@ -8,3 +8,6 @@ Neste projeto foi feito um site de uma dentista, onde a mesma oferece serviços 
 <p>Abaixo fiz algo interessante usando calc, onde defini uma altura em porcentagem e ao passar o ponteiro do mouse em cima  de um desses três elementos abaixo do slide(usando a propriedade hover) fiz com que a imagem que estivesse com o ponteiro em cima aumentasse de tamanho de forma relativa, assim frazendo com que os elementos dentro tenham mais destaque na página.</p>
 
 <img src="https://github.com/sian19/Site-Fernanda-Varrela/blob/master/images/Img-projeto_2.png">
+
+<h3>Link do projeto:</h3>
+<a href="https://site-fernanda-varrela.vercel.app/">Click aqui</a>
